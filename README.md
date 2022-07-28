@@ -4,16 +4,16 @@ with bill amount and month.
 
 ### MUST DO
 
--Sign in into WhatsApp web throufh your default browser.
+-Sign in to WhatsApp web through your default browser.
 
--Change the file directory of excel file in the program to where excel file is saved in your system.
+-Change the file directory of the excel file in the program to where the excel file is saved in your system.
 
 ### Coloured cells in excel file 
 
-Yellow - ignore the contact. Don't send message to it.
+Yellow - ignore the contact. Don't send a message to it.
 
-Green - Payment received. No need to send message.
+Green - Payment received. No need to send the message.
 
 Red - Customer has discontinued service
 
-Blue - Total colection of every month is saved in this row
+Blue - Total collection of every month is saved in this row
